@@ -1,0 +1,54 @@
+var bingoList = [];
+# Bingo items not yet assigned a value
+bingoList[0] = [
+  { name: "Kill Olin", types: ["olin"] },
+  { name: "Save Olin", types: ["olin"] },
+  
+  { name: "Vantage Point Set 1", types: ["vantage1"] },
+  { name: "Vantage Point Set 2", types: ["vantage2"] },
+  { name: "Vantage Point Set 3", types: ["vantage3"] },
+  { name: "8 Vantage Points", types: ["vantage1", "vantage2", "vantage3"] },
+  { name: "All Vantage Points", types: ["vantage1", "vantage2", "vatage3"] },
+  
+  { name: "Ancient Vessel Set 1", types: ["vessel1"] },
+  { name: "Ancient Vessel Set 2", types: ["vessel2"] },
+  { name: "Ancient Vessel Set 3", types: ["vessel3"] },
+  { name: "8 Ancient Vessels", types: ["vessel1", "vessel2", "vessel3"] },
+  { name: "All Ancient Vessels", types: ["vessel1", "vessel2", "vessel3"] },
+  
+  { name: "Metal Flower Set 1", types: ["flower1"] },
+  { name: "Metal Flower Set 2", types: ["flower2"] },
+  { name: "Metal Flower Set 3", types: ["flower3"] },
+  { name: "20 Metal Flowers", types: ["flower1", "flower2", "flower3"] },
+  { name: "All Metal Flowers", types: ["flower1", "flower2", "flower3"] },
+  
+  { name: "Banuk Figures Set 1", types: ["banuk1"] },
+  { name: "Banuk Figures Set 2", types: ["banuk2"] },
+  { name: "Banuk Figures Set 3", types: ["banuk3"] },
+  { name: "4 Banuk figures", types: ["banuk1", "banuk2", "banuk3"] },
+  { name: "All Banuk Figures", types: ["banuk1", "banuk2", "banuk3"] },
+  
+  { name: "Complete 'The Point of the Spear'", types: ["noramain"] },
+  { name: "Complete 'A Seeker at the Gates'", types: ["noramain"] },
+  { name: "Complete 'The City of the Sun'", types: ["noramain"] },
+  { name: "Complete 'Maker's End'", types: ["noramain"] },
+  { name: "Complete 'The Grave Hoard'", types: ["noramain", "fasmain"] },
+  
+  { name: "Complete 'The War Cheif's Trail'", types: ["warcheif"] },
+  { name: "Complete 'Revenge of the Nora'", types: ["warcheif"] },
+  
+  { name: "Complete 'To Curse the Darkness'", types: ["fasmain"] },
+  { name: "Complete 'Deep Secrets of the Earth'", types: ["fasmain"] },
+  { name: "Complete 'The Heart of the Nora'", types: ["fasmain"] },
+  { name: "Complete 'The Face of Extinction'", types: ["fasmain", "carjamain"] },
+  
+  { name: "Complete 'The Field of the Fallen'", types: ["carjamain"] },
+  { name: "Complete 'Into the Borderlands'", types: ["carjamain"] },
+  { name: "Complete 'The Sun Shall Fall'", types: ["carjamain"] },
+  
+  
+];
+
+bingoList[1] = [
+
+];
