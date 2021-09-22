@@ -31,11 +31,11 @@ bingoList[0] = [
   { name: "Complete 'The Point of the Spear'", types: ["noramain"] },
   { name: "Complete 'A Seeker at the Gates'", types: ["noramain"] },
   { name: "Complete 'The City of the Sun'", types: ["noramain"] },
-  { name: "Complete 'Maker's End'", types: ["noramain"] },
+  { name: "Complete 'Maker's End'", types: ["noramain", "fasmain"] },
   { name: "Complete 'The Grave Hoard'", types: ["noramain", "fasmain"] },
   
-  { name: "Complete 'The War Cheif's Trail'", types: ["warcheif"] },
-  { name: "Complete 'Revenge of the Nora'", types: ["warcheif"] },
+  { name: "Complete 'The War Chief's Trail'", types: ["warchief"] },
+  { name: "Complete 'Revenge of the Nora'", types: ["warchief"] },
   
   { name: "Complete 'To Curse the Darkness'", types: ["fasmain"] },
   { name: "Complete 'Deep Secrets of the Earth'", types: ["fasmain"] },
@@ -53,4 +53,3 @@ bingoList[1] = [
 
 ];
 
-some stuff
