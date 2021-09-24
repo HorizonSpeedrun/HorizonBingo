@@ -46,6 +46,49 @@ bingoList[0] = [
   { name: "Complete 'Into the Borderlands'", types: ["carjamain"] },
   { name: "Complete 'The Sun Shall Fall'", types: ["carjamain"] },
   
+  { name: "12 Grazer Dummies", types: ["dummies"] },
+  { name: "All Grazer Dummies", types: ["dummies"] },
+  
+  { name: "Nora Hunting Grounds Set", types: ["hgrounds"] },
+  { name: "Valleymeet Hunting Grounds Set", types: ["hgrounds"] },
+  { name: "Greatrun Hunting Grounds Set", types: ["hgrounds"] },
+  { name: "Spurflints Hunting Grounds Set", types: ["hgrounds"] },
+  { name: "Sun Furrows Hunting Grounds Set", types: ["hgrounds"] },
+  { name: "9 Blazing Suns", types: ["hgrounds"] },
+  { name: "All Blazing Suns", types: ["hgrounds"] },
+  
+  { name: "Bandit Camp Devil's Thirst", types: ["bcamps"] },
+  { name: "Bandit Camp Two-Teeth", types: ["bcamps"] },
+  { name: "Bandit Camp Hollow Fort", types: ["bcamps"] },
+  { name: "Bandit Camp Gatelands", types: ["bcamps"] },
+  { name: "Bandit Camp Blackwing Snag", types: ["bcamps"] },
+  { name: "Bandit Camp Shattered Kiln", types: ["bcamps"] },
+  { name: "3 Bandit Camps", types: ["bcamps"] },
+  { name: "All Bandit Camps", types: ["bcamps"] },
+  
+  { name: "Cauldron SIGMA", types: ["cauldrons"] },
+  { name: "Cauldron XI", types: ["cauldrons"] },
+  { name: "Cauldron ZETA", types: ["cauldrons"] },
+  { name: "Cauldron RHO", types: ["cauldrons"] },
+  { name: "Cauldron EPSILON", types: ["cauldrons"] },
+  { name: "All Cauldrons", types: ["cauldrons"] },
+  
+  { name: "Tallneck Rustwash", types: ["tallnecks"] },
+  { name: "Tallneck Copper Deeps", types: ["tallnecks"] },
+  { name: "Tallneck Sun-Steps", types: ["tallnecks"] },
+  { name: "Tallneck Spearshafts", types: ["tallnecks"] },
+  { name: "Tallneck Devil's Thirst", types: ["tallnecks"] },
+  { name: "3 Tallnecks", types: ["tallnecks"] },
+  { name: "All Tallnecks", types: ["tallnecks"] },
+  
+  { name: "Obtain Shieldweaver", types: ["sidequest"] },
+  { name: "Complete 'Traitor's Bounty'", types: ["sidequest"] },
+  { name: "Complete 'Queen's Gambit'", types: ["sidequest"] }, 
+  { name: "Complete 'Cause For Concern - Farewell'", types: ["sidequest, bcamps"] }, 
+  { name: "Complete 'In Her Mother's Footsteps'", types: ["sidequest"] }, 
+  { name: "Complete 'The Forgotten'", types: ["sidequest"] }, 
+  
+  { name: "Complete 'Odd Grata'", types: ["errand"] }, 
   
 ];
 
