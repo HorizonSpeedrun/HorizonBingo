@@ -70,7 +70,6 @@ bingoList[0] = [
   { name: "Cauldron XI", types: ["cauldrons"] },
   { name: "Cauldron ZETA", types: ["cauldrons"] },
   { name: "Cauldron RHO", types: ["cauldrons"] },
-  { name: "Cauldron EPSILON", types: ["cauldrons"] },
   { name: "All Cauldrons", types: ["cauldrons"] },
   
   { name: "Tallneck Rustwash", types: ["tallnecks"] },
