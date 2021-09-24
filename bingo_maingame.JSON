@@ -46,19 +46,12 @@ bingoList[0] = [
   { name: "Complete 'Into the Borderlands'", types: ["carjamain"] },
   { name: "Complete 'The Sun Shall Fall'", types: ["carjamain"] },
   
-  { name: "5 Grazer Dummies", types: ["dummies"] },
-  { name: "10 Grazer Dummies", types: ["dummies"] },
-  { name: "15 Grazer Dummies", types: ["dummies"] },
+  { name: "12 Grazer Dummies", types: ["dummies"] },
   { name: "All Grazer Dummies", types: ["dummies"] },
   
   { name: "3 Blazing Suns", types: ["hgrounds"] },
   { name: "6 Blazing Suns", types: ["hgrounds"] },
   { name: "9 Blazing Suns", types: ["hgrounds"] },
-  
-  { name: "3 Ancient Vessels", types: ["avessels"] },
-  { name: "6 Ancient Vessels", types: ["avessels"] },
-  { name: "9 Ancient Vessels", types: ["avessels"] },
-  { name: "All Ancient Vessels", types: ["avessels"] },
   
   { name: "3 Bandit Camps", types: ["bcamps"] },
   { name: "4 Bandit Camps", types: ["bcamps"] },
@@ -66,9 +59,12 @@ bingoList[0] = [
   { name: "6 Bandit Camps", types: ["bcamps"] },
   { name: "All Bandit Camps", types: ["bcamps"] },
   
-  { name: "1 Cauldron", types: ["cauldrons"] },
-  { name: "2 Cauldrons", types: ["cauldrons"] },
-  { name: "3 Cauldrons", types: ["cauldrons"] },
+  { name: "Cauldron SIGMA", types: ["cauldrons"] },
+  { name: "Cauldron XI", types: ["cauldrons"] },
+  { name: "Cauldron ZETA", types: ["cauldrons"] },
+  { name: "Cauldron RHO", types: ["cauldrons"] },
+  { name: "Cauldron EPSILON", types: ["cauldrons"] },
+  { name: "All Cauldrons", types: ["cauldrons"] },
   
   { name: "2 Tallnecks", types: ["tallnecks"] },
   { name: "3 Tallnecks", types: ["tallnecks"] },
