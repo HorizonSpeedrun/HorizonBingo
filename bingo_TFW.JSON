@@ -5,10 +5,10 @@ bingoList[0] = [
   { name: "6 Control Towers", types: ["ctowers"] },
   { name: "All Control Towers", types: ["ctowers"] },
   
-  { name: "Oxide Pigment Set", types: ["pigments"] },
-  { name: "Salt Pigment Set", types: ["pigments"] },
-  { name: "Crystal Pigment Set", types: ["pigments"] },
-  { name: "All Pigments", types: ["pigments"] },
+  { name: "Oxide Pigment Set", types: ["pigment1"] },
+  { name: "Salt Pigment Set", types: ["pigment2"] },
+  { name: "Crystal Pigment Set", types: ["pigment3"] },
+  { name: "All Pigments", types: ["pigment1", "pigment2", "pigment3"] },
   
   { name: "3 Animal Figurines", types: ["afigurines"] },
   { name: "All Animal Figurines", types: ["afigurines"] },
@@ -17,10 +17,10 @@ bingoList[0] = [
   
   { name: "Tallneck Frostfigures", types: ["tallneck"] },
   
-  { name: "10 Non-Quest Bluegleam", types: ["bluegleam"] },
-  { name: "20 Non-Quest Bleugleam", types: ["bluegleam"] },
-  { name: "30 Non-Quest Bluegleam", types: ["bluegleam"] },
-  { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam"] },
+  { name: "10 Non-Quest Bluegleam", types: ["bluegleam10"] },
+  { name: "20 Non-Quest Bleugleam", types: ["bluegleam20"] },
+  { name: "30 Non-Quest Bluegleam", types: ["bluegleam30"] },
+  { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam10", "bluegleam20", "bluegleam30"] },
   
   { name: "Snowchants Hunting Grounds Set", types: ["hgrounds"] },
   
@@ -29,14 +29,14 @@ bingoList[0] = [
   { name: "Complete 'Firebreak'", types: ["tfwmain"] },
   { name: "Complete 'The Forge Of Winter'", types: ["tfwmain"] },
  
-  { name: "Complete 'Waterlogged'", types: ["tfwsidequest, sidequestgroup1"] },
-  { name: "Complete 'The Hunters Three'", types: ["tfwsidequest, sidequestgroup1"] },
+  { name: "Complete 'Waterlogged'", types: ["tfwside1"] },
+  { name: "Complete 'The Hunters Three'", types: ["tfwside1"] },
   
-  { name: "Complete 'A Secret Shared'", types: ["tfwsidequest, sidequestgroup2"] },
-  { name: "Complete 'The Claws Beneath'", types: ["tfwsidequest, sidequestgroup2"] },
+  { name: "Complete 'A Secret Shared'", types: ["tfwside2"] },
+  { name: "Complete 'The Claws Beneath'", types: ["tfwside2"] },
   
-  { name: "Complete 'Geared Up: Stormslinger'", types: ["tfwsidequest, sidequestgroup3"] },
-  { name: "Complete 'Frontier Justice'", types: ["tfwsidequest, sidequestgroup3"] },
+  { name: "Complete 'Geared Up: Stormslinger'", types: ["tfwside3"] },
+  { name: "Complete 'Frontier Justice'", types: ["tfwside3"] },
   
 ];
 
