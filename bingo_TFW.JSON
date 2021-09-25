@@ -17,10 +17,10 @@ bingoList[0] = [
   
   { name: "Tallneck Frostfigures", types: ["tallneck"] },
   
-  { name: "10 Non-Quest Bluegleam", types: ["bluegleam10"] },
-  { name: "20 Non-Quest Bleugleam", types: ["bluegleam20"] },
-  { name: "30 Non-Quest Bluegleam", types: ["bluegleam30"] },
-  { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam10", "bluegleam20", "bluegleam30"] },
+  { name: "10 Non-Quest Bluegleam", types: ["bluegleam"] },
+  { name: "20 Non-Quest Bleugleam", types: ["bluegleam"] },
+  { name: "30 Non-Quest Bluegleam", types: ["bluegleam"] },
+  { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam"] },
   
   { name: "Snowchants Hunting Grounds Set", types: ["hgrounds"] },
   
