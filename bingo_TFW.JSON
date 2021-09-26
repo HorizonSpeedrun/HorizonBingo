@@ -1,9 +1,9 @@
 var bingoList = [];
 # Bingo items not yet assigned a value
 bingoList[0] = [
-  { name: "3 Control Towers", types: ["ctowers"] },
-  { name: "6 Control Towers", types: ["ctowers"] },
-  { name: "All Control Towers", types: ["ctowers"] },
+  { name: "3 Control Towers", types: ["ctowers3"] },
+  { name: "6 Control Towers", types: ["ctowers6"] },
+  { name: "All Control Towers", types: ["ctowers3", "ctowers6"] },
   
   { name: "Oxide Pigment Set", types: ["pigment1"] },
   { name: "Salt Pigment Set", types: ["pigment2"] },
@@ -17,10 +17,10 @@ bingoList[0] = [
   
   { name: "Tallneck Frostfigures", types: ["tallneck"] },
   
-  { name: "10 Non-Quest Bluegleam", types: ["bluegleam"] },
-  { name: "20 Non-Quest Bleugleam", types: ["bluegleam"] },
-  { name: "30 Non-Quest Bluegleam", types: ["bluegleam"] },
-  { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam"] },
+  { name: "10 Non-Quest Bluegleam", types: ["bluegleam10"] },
+  { name: "20 Non-Quest Bleugleam", types: ["bluegleam20"] },
+  { name: "30 Non-Quest Bluegleam", types: ["bluegleam30"] },
+  { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam10", "bluegleam20", "bluegleam30"] },
   
   { name: "Snowchants Hunting Grounds Set", types: ["hgrounds"] },
   
