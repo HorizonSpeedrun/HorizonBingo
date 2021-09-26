@@ -85,12 +85,17 @@ bingoList[0] = [
   { name: "Defeat 8 Corrupted Zones", types: ["czones"] },
   { name: "Defeat all Corrupted Zones", types: ["czones"] },
   
-  { name: "Obtain Shieldweaver", types: [] },
-  { name: "Complete 'Traitor's Bounty'", types: [] },
-  { name: "Complete 'Queen's Gambit'", types: [] }, 
-  { name: "Complete 'Cause For Concern - Farewell'", types: ["nil"] }, 
+  { name: "Complete 'Ancient Armory'", types: [] }, 
   { name: "Complete 'In Her Mother's Footsteps'", types: [] }, 
   { name: "Complete 'The Forgotten'", types: [] }, 
+  
+  { name: "Complete 'Insult to Injury'", types: [] },
+  { name: "Complete 'Underequipped'", types: [] },
+  { name: "Complete 'A Moment's Peace'", types: [] },
+  
+  { name: "Complete 'Traitor's Bounty'", types: [] },
+  { name: "Complete 'Queen's Gambit'", types: [] }, 
+  { name: "Complete 'Cause For Concern - Farewell'", types: ["nil"] }
   
   { name: "Complete 'Odd Grata'", types: [] }, 
   
