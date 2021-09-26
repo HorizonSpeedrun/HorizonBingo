@@ -78,8 +78,8 @@ bingoList[0] = [
   { name: "Tallneck Sun-Steps", types: ["tallnecks3"] },
   { name: "Tallneck Spearshafts", types: ["tallnecks4"] },
   { name: "Tallneck Devil's Thirst", types: ["tallnecks5"] },
-  { name: "3 Tallnecks", types: ["tallnecks1", "tallnecks2", "tallnecks3", "tallnecks4", "tallnecks5", "tallnecks6"] },
-  { name: "All Tallnecks", types: ["tallnecks", "tallnecks2", "tallnecks3", "tallnecks4", "tallnecks5", "tallnecks6"] },
+  { name: "3 Tallnecks", types: ["tallnecks1", "tallnecks2", "tallnecks3", "tallnecks4", "tallnecks5"] },
+  { name: "All Tallnecks", types: ["tallnecks", "tallnecks2", "tallnecks3", "tallnecks4", "tallnecks5"] },
   
   { name: "Defeat 5 Corrupted Zones", types: ["czones"] },
   { name: "Defeat 8 Corrupted Zones", types: ["czones"] },
@@ -92,10 +92,13 @@ bingoList[0] = [
   { name: "Complete 'Insult to Injury'", types: [] },
   { name: "Complete 'Underequipped'", types: [] },
   { name: "Complete 'A Moment's Peace'", types: [] },
+  { name: "Complete 'A Daughter's Vengeance'", types: [] },
+  
+  { name: "Complete 'Fatal Inheritance'", types: [] },
+  { name: "Complete 'Cause For Concern - Farewell'", types: ["nil"] },
   
   { name: "Complete 'Traitor's Bounty'", types: [] },
   { name: "Complete 'Queen's Gambit'", types: [] }, 
-  { name: "Complete 'Cause For Concern - Farewell'", types: ["nil"] }
   
   { name: "Complete 'Odd Grata'", types: [] }, 
   
