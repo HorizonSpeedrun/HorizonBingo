@@ -1,5 +1,5 @@
 var bingoList = [];
-# Bingo items not yet assigned a value
+
 bingoList[0] = [
   { name: "Kill Olin", types: ["olin"] },
   { name: "Save Olin", types: ["olin"] },
@@ -80,6 +80,10 @@ bingoList[0] = [
   { name: "Tallneck Devil's Thirst", types: ["tallnecks5"] },
   { name: "3 Tallnecks", types: ["tallnecks1", "tallnecks2", "tallnecks3", "tallnecks4", "tallnecks5", "tallnecks6"] },
   { name: "All Tallnecks", types: ["tallnecks", "tallnecks2", "tallnecks3", "tallnecks4", "tallnecks5", "tallnecks6"] },
+  
+  { name: "Defeat 5 Corrupted Zones", types: ["czones"] },
+  { name: "Defeat 8 Corrupted Zones", types: ["czones"] },
+  { name: "Defeat all Corrupted Zones", types: ["czones"] },
   
   { name: "Obtain Shieldweaver", types: [] },
   { name: "Complete 'Traitor's Bounty'", types: [] },
