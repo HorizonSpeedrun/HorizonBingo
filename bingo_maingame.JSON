@@ -101,6 +101,7 @@ bingoList[0] = [
   { name: "Complete 'Queen's Gambit'", types: [] }, 
   
   { name: "Complete 'Odd Grata'", types: [] }, 
+  { name: "Complete 'Sunstone Rock'", types: [] },
   
   { name: "Complete 'Sanctuary'", types: [] },
   { name: "Complete 'Luck of the Hunt'", types: [] },
@@ -111,6 +112,10 @@ bingoList[0] = [
   
   { name: "Complete 'Hammer and Steel'", types: [] },
   { name: "Complete 'Heap of Trouble'", types: [] },
+  { name: "Complete 'Hunters' Blind'", types: [] },
+  { name: "Complete 'Weapons of the Lodge'", types: [] },
+  { name: "Complete 'Honor the Fallen'", types: [] },
+  { name: "Complete 'Redmaw'", types: [] },
   
   { name: "Complete 'Death from the Skies'", types: [] },
   { name: "Complete 'Acquired Taste'", types: [] },
@@ -121,8 +126,9 @@ bingoList[0] = [
   { name: "Complete 'Sun's Judgement'", types: [] },
   
   { name: "Complete 'Sun and Shadow'", types: [] },
-  { name: "Complete 'A Moment's Peace'", types: [] },
   { name: "Complete 'Healer's Oath'", types: [] },
+  
+  
   
 ];
 
