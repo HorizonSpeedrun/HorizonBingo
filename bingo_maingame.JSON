@@ -83,7 +83,7 @@ bingoList[0] = [
   
   { name: "Defeat 5 Corrupted Zones", types: ["czones"] },
   { name: "Defeat 8 Corrupted Zones", types: ["czones"] },
-  { name: "Defeat all Corrupted Zones", types: ["czones"] },
+  { name: "Defeat All Corrupted Zones", types: ["czones"] },
   
   { name: "Complete 'Ancient Armory'", types: [] }, 
   { name: "Complete 'In Her Mother's Footsteps'", types: [] }, 
@@ -101,6 +101,28 @@ bingoList[0] = [
   { name: "Complete 'Queen's Gambit'", types: [] }, 
   
   { name: "Complete 'Odd Grata'", types: [] }, 
+  
+  { name: "Complete 'Sanctuary'", types: [] },
+  { name: "Complete 'Luck of the Hunt'", types: [] },
+  { name: "Complete 'Underequipped'", types: [] },
+  
+  { name: "Complete 'To Old Acquaintance'", types: [] },
+  { name: "Complete 'In Foreign Lands'", types: [] },
+  
+  { name: "Complete 'Hammer and Steel'", types: [] },
+  { name: "Complete 'Heap of Trouble'", types: [] },
+  
+  { name: "Complete 'Death from the Skies'", types: [] },
+  { name: "Complete 'Acquired Taste'", types: [] },
+  { name: "Complete 'Collateral'", types: [] },
+  
+  { name: "Complete 'Blood on Stone'", types: [] },
+  { name: "Complete 'Robbing the Rich'", types: [] },
+  { name: "Complete 'Sun's Judgement'", types: [] },
+  
+  { name: "Complete 'Sun and Shadow'", types: [] },
+  { name: "Complete 'A Moment's Peace'", types: [] },
+  { name: "Complete 'Healer's Oath'", types: [] },
   
 ];
 
