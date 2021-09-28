@@ -34,9 +34,11 @@ bingoList[0] = [
   
   { name: "Complete 'A Secret Shared'", types: ["tfwside2"] },
   { name: "Complete 'The Claws Beneath'", types: ["tfwside2"] },
+  { name: "Complete 'Ikrie's Challenge'", types: ["tfwside2"] },
   
   { name: "Complete 'Geared Up: Stormslinger'", types: ["tfwside3"] },
   { name: "Complete 'Frontier Justice'", types: ["tfwside3"] },
+  { name: "Complete 'The Survivor'", types: ["tfwside3"] },
   
 ];
 
