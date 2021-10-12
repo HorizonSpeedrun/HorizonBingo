@@ -13,32 +13,44 @@ bingoList[0] = [
   { name: "3 Animal Figurines", types: ["afigurines"] },
   { name: "All Animal Figurines", types: ["afigurines"] },
   
-  { name: "Stone Yield Bandit Camp", types: ["bcamp"] },
+  { name: "Stone Yield Bandit Camp", types: ["forgefire"] },
   
-  { name: "Tallneck Frostfigures", types: ["tallneck"] },
+  { name: "Tallneck Frostfigures", types: [""] },
   
-  { name: "10 Non-Quest Bluegleam", types: ["bluegleam"] },
-  { name: "20 Non-Quest Bleugleam", types: ["bluegleam"] },
-  { name: "30 Non-Quest Bluegleam", types: ["bluegleam"] },
-  { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam"] },
+  { name: "10 Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "20 Non-Quest Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "30 Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   
   { name: "Snowchants Hunting Grounds Set", types: ["hgrounds"] },
   
-  { name: "Complete 'The Shaman's Path'", types: ["tfwmain"] },
-  { name: "Complete 'For The Werak'", types: ["tfwmain"] },
+  { name: "Complete 'The Shaman's Path'", types: ["tfwmain", "spath", "stormslinger"] },
+  { name: "Complete 'For The Werak'", types: ["tfwmain", "icerail", "claws"] },
   { name: "Complete 'Firebreak'", types: ["tfwmain"] },
-  { name: "Complete 'The Forge Of Winter'", types: ["tfwmain"] },
+  { name: "Complete 'The Forge Of Winter'", types: ["tfwmain", "wforge"] },
  
-  { name: "Complete 'Waterlogged'", types: ["tfwside1"] },
-  { name: "Complete 'The Hunters Three'", types: ["tfwside1"] },
+  { name: "Complete 'Waterlogged'", types: [] },
+  { name: "Complete 'A Secret Shared'", types: [] },
   
-  { name: "Complete 'A Secret Shared'", types: ["tfwside2"] },
-  { name: "Complete 'The Claws Beneath'", types: ["tfwside2"] },
-  { name: "Complete 'Ikrie's Challenge'", types: ["tfwside2"] },
+  { name: "Complete 'The Hunters Three'", types: ["spath"] },
+  { name: "Complete 'The Claws Beneath'", types: ["claws"] },
   
-  { name: "Complete 'Geared Up: Stormslinger'", types: ["tfwside3"] },
-  { name: "Complete 'Frontier Justice'", types: ["tfwside3"] },
-  { name: "Complete 'The Survivor'", types: ["tfwside3"] },
+  { name: "Complete 'Ikrie's Challenge'", types: ["hgrounds", "ikrie"] },
+  { name: "Complete 'The Survivor'", types: ["ikrie"] },
+  
+  { name: "Complete 'Geared Up: Stormslinger'", types: ["stormslinger"] },
+  { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] },
+  { name: "Complete 'Geared Up: Icerail'", types: ["icerail"] },
+  
+  { name: "Complete 'Out of the Forge'", types: ["wforge"] },
+  { name: "Complete 'Frontier Justice'", types: ["wforge"] },
+ 
+  { name: "Purchase the Banuk Ice Hunter Master Outfit", type: ["blueice"] },
+  { name: "Purchase the Carja Blazon Master Outfit", type: ["blueblazon"] },
+  { name: "Purchase the Nora Silent Hunter Master Outfit", type: ["bluesilent"] },
+  { name: "Purchase the Banuk Champion Bow", type: ["bluechampion"] },
+  { name: "Purchase the Banuk Powershot Bow", type: ["bluepowershot"] },
+  { name: "Purchase the Bunuk Striker Bow", type: ["bluestriker"] }, 
   
 ];
 
