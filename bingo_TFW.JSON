@@ -55,6 +55,12 @@ bingoList[0] = [
   { name: "Kill 5 Frostclaws", type: ["frostc"] },
   { name: "kill 6 Scorchers", type: [] },
   
+  { name: "Learn 'Mount Repair+' Skill", types: ["mpickup", "traveler"] },
+  { name: "Learn 'Dismount Strike' Skill", types: ["mpickup", "traveler"] },
+  { name: "Learn all Traveler Skills", types: ["traveler"] }
+
+
+  
 ];
 
 bingoList[1] = [
