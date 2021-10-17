@@ -25,7 +25,7 @@ bingoList[0] = [
   { name: "Snowchants Hunting Grounds Set", types: ["hgrounds"] },
   
   { name: "Complete 'The Shaman's Path'", types: ["tfwmain", "spath", "stormslinger"] },
-  { name: "Complete 'For The Werak'", types: ["tfwmain", "icerail", "claws"] },
+  { name: "Complete 'For The Werak'", types: ["tfwmain", "icerail", "claws", "frostc"] },
   { name: "Complete 'Firebreak'", types: ["tfwmain"] },
   { name: "Complete 'The Forge Of Winter'", types: ["tfwmain", "wforge"] },
  
@@ -51,6 +51,9 @@ bingoList[0] = [
   { name: "Purchase the Banuk Champion Bow", type: ["bluechampion"] },
   { name: "Purchase the Banuk Powershot Bow", type: ["bluepowershot"] },
   { name: "Purchase the Bunuk Striker Bow", type: ["bluestriker"] }, 
+  
+  { name: "Kill 5 Frostclaws", type: ["frostc"] },
+  { name: "kill 6 Scorchers", type: [] },
   
 ];
 
