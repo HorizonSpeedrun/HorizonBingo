@@ -139,9 +139,7 @@ bingoList[0] = [
   { name: "Get The 'Combat Override+' Skill", types: ["skill"] },
   { name: "Get The 'Tinker' Skill", types: ["skill"] },
   { name: "Get The 'Scavenger+' Skill", types: ["skill"] },
-  
-  { name: "Get The 'Mount Repair+' Skill", types: ["skill"] },
-  { name: "Get The 'Dismount Strike' Skill", types: ["skill"] },
+
   
   
   
