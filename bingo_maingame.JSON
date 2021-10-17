@@ -128,6 +128,21 @@ bingoList[0] = [
   { name: "Complete 'Sun and Shadow'", types: [] },
   { name: "Complete 'Healer's Oath'", types: [] },
   
+  { name: "Get The 'Strong Strike+' Skill", types: ["skill"] },
+  { name: "Get The 'Silent Sprint' Skill", types: ["skill"] },
+  { name: "Get The 'Leader Strike' Skill", types: ["skill"] },
+  
+  { name: "Get The 'Fighting Back' Skill", types: ["skill"] },
+  { name: "Get The 'Fast Reload' Skill", types: ["skill"] },
+  { name: "Get The 'Triple Shot' Skill", types: ["skill"] },
+  
+  { name: "Get The 'Combat Override+' Skill", types: ["skill"] },
+  { name: "Get The 'Tinker' Skill", types: ["skill"] },
+  { name: "Get The 'Scavenger+' Skill", types: ["skill"] },
+  
+  { name: "Get The 'Mount Repair+' Skill", types: ["skill"] },
+  { name: "Get The 'Dismount Strike' Skill", types: ["skill"] },
+  
   
   
 ];
