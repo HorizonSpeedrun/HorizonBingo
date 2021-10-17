@@ -24,16 +24,16 @@ bingoList[0] = [
   
   { name: "Snowchants Hunting Grounds Set", types: ["hgrounds"] },
   
-  { name: "Complete 'The Shaman's Path'", types: ["tfwmain", "spath", "stormslinger"] },
-  { name: "Complete 'For The Werak'", types: ["tfwmain", "icerail", "claws", "frostc"] },
-  { name: "Complete 'Firebreak'", types: ["tfwmain"] },
-  { name: "Complete 'The Forge Of Winter'", types: ["tfwmain", "wforge"] },
+  { name: "Complete 'The Shaman's Path'", types: ["tfwmain1", "stormslinger"] },
+  { name: "Complete 'For The Werak'", types: ["tfwmain1", "icerail", "frostc"] },
+  { name: "Complete 'Firebreak'", types: ["tfwmain2"] },
+  { name: "Complete 'The Forge Of Winter'", types: ["tfwmain2",] },
  
   { name: "Complete 'Waterlogged'", types: [] },
   { name: "Complete 'A Secret Shared'", types: [] },
   
-  { name: "Complete 'The Hunters Three'", types: ["spath"] },
-  { name: "Complete 'The Claws Beneath'", types: ["claws"] },
+  { name: "Complete 'The Hunters Three'", types: [] },
+  { name: "Complete 'The Claws Beneath'", types: [] },
   
   { name: "Complete 'Ikrie's Challenge'", types: ["hgrounds", "ikrie"] },
   { name: "Complete 'The Survivor'", types: ["ikrie"] },
@@ -42,8 +42,8 @@ bingoList[0] = [
   { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] },
   { name: "Complete 'Geared Up: Icerail'", types: ["icerail"] },
   
-  { name: "Complete 'Out of the Forge'", types: ["wforge"] },
-  { name: "Complete 'Frontier Justice'", types: ["wforge"] },
+  { name: "Complete 'Out of the Forge'", types: [] },
+  { name: "Complete 'Frontier Justice'", types: [] },
  
   { name: "Purchase the Banuk Ice Hunter Master Outfit", type: ["blueice"] },
   { name: "Purchase the Carja Blazon Master Outfit", type: ["blueblazon"] },
