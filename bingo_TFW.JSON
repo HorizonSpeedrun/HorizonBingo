@@ -17,7 +17,7 @@ bingoList[0] = [
   
   { name: "Tallneck Frostfigures", types: [""] },
   
-  { name: "10 Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "10 Non-Quest Bluegleam", types: ["bluegleam"] },
   { name: "20 Non-Quest Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   { name: "30 Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
