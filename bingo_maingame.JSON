@@ -128,17 +128,20 @@ bingoList[0] = [
   { name: "Complete 'Sun and Shadow'", types: [] },
   { name: "Complete 'Healer's Oath'", types: [] },
   
-  { name: "Get The 'Strong Strike+' Skill", types: ["skill"] },
-  { name: "Get The 'Silent Sprint' Skill", types: ["skill"] },
-  { name: "Get The 'Leader Strike' Skill", types: ["skill"] },
+  { name: "Learn The 'Strong Strike+' Skill", types: ["silents", "prowler"] },
+  { name: "Learn The 'QUite Sprint' Skill", types: ["prowler"] },
+  { name: "Learn The 'Leader Strike' Skill", types: ["silents", "prowler"] },
+  { name: "Learn All 'Prowler' Skills", types: ["prowler"] },
   
-  { name: "Get The 'Fighting Back' Skill", types: ["skill"] },
-  { name: "Get The 'Fast Reload' Skill", types: ["skill"] },
-  { name: "Get The 'Triple Shot' Skill", types: ["skill"] },
+  { name: "Learn The 'Fighting Back' Skill", types: ["brave"] },
+  { name: "Learn The 'Fast Reload' Skill", types: ["brave", "concentration"] },
+  { name: "Learn The 'Triple Shot' Skill", types: ["brave", "concentration"] },
+  { name: "learn All 'Brave' Skills", types: ["brave"] },
   
-  { name: "Get The 'Combat Override+' Skill", types: ["skill"] },
-  { name: "Get The 'Tinker' Skill", types: ["skill"] },
-  { name: "Get The 'Scavenger+' Skill", types: ["skill"] },
+  { name: "Learn The 'Call Mount+' Skill", types: ["forager"] },
+  { name: "Learn The 'Tinker' Skill", types: ["forager", "gatherer"] },
+  { name: "Learn The 'Scavenger+' Skill", types: ["forager", "gatherer"] },
+  { name: "Learn All 'Gatherer' Skills", types; ["gatherer"] },
 
   
   
