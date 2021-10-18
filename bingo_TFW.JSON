@@ -76,35 +76,35 @@ bingoList[2] = [
   { name: "Learn all Traveler Skills", types: ["traveler"] },
   { name: "Purchase the Bunuk Striker Bow", type: ["bluestriker"] },
   { name: "Purchase the Carja Blazon Master Outfit", type: ["blueblazon"] },
+  { name: "Salt Pigment Set", types: ["pigment2"] },
 ];
 
 bingoList[3] = [
   { name: "Purchase the Nora Silent Hunter Master Outfit", type: ["bluesilent"] },
   { name: "Complete 'A Secret Shared'", types: [] },
   { name: "20 Non-Quest Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
-  { name: "Salt Pigment Set", types: ["pigment2"] },
   { name: "Oxide Pigment Set", types: ["pigment1"] },
   { name: "3 Control Towers", types: ["ctowers"] },
+  { name: "Complete 'The Shaman's Path'", types: ["tfwmain1", "stormslinger"] },
 ];
 
 bingoList[4] = [
   { name: "Crystal Pigment Set", types: ["pigment3"] },
   { name: "Tallneck Frostfigures", types: [""] },
   { name: "30 Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
-  { name: "Complete 'The Shaman's Path'", types: ["tfwmain1", "stormslinger"] },
   { name: "Complete 'Waterlogged'", types: [] },
   { name: "Complete 'Geared Up: Stormslinger'", types: ["stormslinger"] },
 ];
 bingoList[5] = [
+  { name: "Complete 'The Survivor'", types: ["ikrie"] },
   { name: "kill 6 Scorchers", type: [] },
-  { name: "Kill 5 Frostclaws", type: ["frostc"] },
   { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] },
   { name: "Complete 'The Claws Beneath'", types: [] },
   { name: "3 Animal Figurines", types: ["afigurines"] }
 ];
 bingoList[6] = [
+  { name: "Kill 5 Frostclaws", type: ["frostc"] },
   { name: "6 Control Towers", types: ["ctowers"] },
-  { name: "Complete 'The Survivor'", types: ["ikrie"] },
   { name: "Complete 'Ikrie's Challenge'", types: ["hgrounds", "ikrie"] },
   { name: "Complete 'The Hunters Three'", types: [] },
   { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
