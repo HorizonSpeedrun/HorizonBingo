@@ -1,63 +1,63 @@
 var bingoList = [];
 # Bingo items not yet assigned a value
 bingoList[0] = [
-  { name: "3 Control Towers", types: ["ctowers"] },
-  { name: "6 Control Towers", types: ["ctowers"] },
-  { name: "All Control Towers", types: ["ctowers"] },
+  { name: "3 Control Towers", types: ["ctowers"] }, 3
+  { name: "6 Control Towers", types: ["ctowers"] }, 7
+  { name: "All Control Towers", types: ["ctowers"] }, 10
   
-  { name: "Oxide Pigment Set", types: ["pigment1"] },
-  { name: "Salt Pigment Set", types: ["pigment2"] },
-  { name: "Crystal Pigment Set", types: ["pigment3"] },
-  { name: "All Pigments", types: ["pigment1", "pigment2", "pigment3"] },
+  { name: "Oxide Pigment Set", types: ["pigment1"] }, 3
+  { name: "Salt Pigment Set", types: ["pigment2"] }, 3
+  { name: "Crystal Pigment Set", types: ["pigment3"] }, 4
+  { name: "All Pigments", types: ["pigment1", "pigment2", "pigment3"] }, 7
   
-  { name: "3 Animal Figurines", types: ["afigurines"] },
-  { name: "All Animal Figurines", types: ["afigurines"] },
+  { name: "3 Animal Figurines", types: ["afigurines"] }, 5
+  { name: "All Animal Figurines", types: ["afigurines"] }, 8
   
-  { name: "Stone Yield Bandit Camp", types: ["forgefire"] },
+  { name: "Stone Yield Bandit Camp", types: ["forgefire"] }, 7
   
-  { name: "Tallneck Frostfigures", types: [""] },
+  { name: "Tallneck Frostfigures", types: [""] }, 4
   
-  { name: "10 Non-Quest Bluegleam", types: ["bluegleam"] },
-  { name: "20 Non-Quest Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
-  { name: "30 Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
-  { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "10 Non-Quest Bluegleam", types: ["bluegleam"] }, 2
+  { name: "20 Non-Quest Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] }, 3
+  { name: "30 Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] }, 4
+  { name: "All (42) Non-Quest Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] }, 6
   
-  { name: "Snowchants Hunting Grounds Set", types: ["hgrounds"] },
+  { name: "Snowchants Hunting Grounds Set", types: ["hgrounds"] }, 11
   
-  { name: "Complete 'The Shaman's Path'", types: ["tfwmain1", "stormslinger"] },
-  { name: "Complete 'For The Werak'", types: ["tfwmain1", "icerail", "frostc"] },
-  { name: "Complete 'Firebreak'", types: ["tfwmain2"] },
-  { name: "Complete 'The Forge Of Winter'", types: ["tfwmain2",] },
+  { name: "Complete 'The Shaman's Path'", types: ["tfwmain1", "stormslinger"] }, 4
+  { name: "Complete 'For The Werak'", types: ["tfwmain1", "icerail", "frostc"] }, 7
+  { name: "Complete 'Firebreak'", types: ["tfwmain2"] }, 10
+  { name: "Complete 'The Forge Of Winter'", types: ["tfwmain2",] }, 12
  
-  { name: "Complete 'Waterlogged'", types: [] },
+  { name: "Complete 'Waterlogged'", types: [] }, 4
   { name: "Complete 'A Secret Shared'", types: [] },
   
   { name: "Complete 'The Hunters Three'", types: [] },
   { name: "Complete 'The Claws Beneath'", types: [] },
   
-  { name: "Complete 'Ikrie's Challenge'", types: ["hgrounds", "ikrie"] },
+  { name: "Complete 'Ikrie's Challenge'", types: ["hgrounds", "ikrie"] }, 6
   { name: "Complete 'The Survivor'", types: ["ikrie"] },
   
   { name: "Complete 'Geared Up: Stormslinger'", types: ["stormslinger"] },
   { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] },
   { name: "Complete 'Geared Up: Icerail'", types: ["icerail"] },
   
-  { name: "Complete 'Out of the Forge'", types: [] },
-  { name: "Complete 'Frontier Justice'", types: [] },
+  { name: "Complete 'Out of the Forge'", types: [] }, 7
+  { name: "Complete 'Frontier Justice'", types: [] }, 
  
-  { name: "Purchase the Banuk Ice Hunter Master Outfit", type: ["blueice"] },
-  { name: "Purchase the Carja Blazon Master Outfit", type: ["blueblazon"] },
-  { name: "Purchase the Nora Silent Hunter Master Outfit", type: ["bluesilent"] },
-  { name: "Purchase the Banuk Champion Bow", type: ["bluechampion"] },
-  { name: "Purchase the Banuk Powershot Bow", type: ["bluepowershot"] },
-  { name: "Purchase the Bunuk Striker Bow", type: ["bluestriker"] }, 
+  { name: "Purchase the Banuk Ice Hunter Master Outfit", type: ["blueice"] }, 1
+  { name: "Purchase the Carja Blazon Master Outfit", type: ["blueblazon"] }, 2
+  { name: "Purchase the Nora Silent Hunter Master Outfit", type: ["bluesilent"] }, 3
+  { name: "Purchase the Banuk Champion Bow", type: ["bluechampion"] }, 1
+  { name: "Purchase the Banuk Powershot Bow", type: ["bluepowershot"] }, 1
+  { name: "Purchase the Bunuk Striker Bow", type: ["bluestriker"] }, 2
   
-  { name: "Kill 5 Frostclaws", type: ["frostc"] },
-  { name: "kill 6 Scorchers", type: [] },
+  { name: "Kill 5 Frostclaws", type: ["frostc"] }, 5
+  { name: "kill 6 Scorchers", type: [] }, 4
   
-  { name: "Learn 'Mount Repair+' Skill", types: ["mpickup", "traveler"] },
-  { name: "Learn 'Dismount Strike' Skill", types: ["mpickup", "traveler"] },
-  { name: "Learn all Traveler Skills", types: ["traveler"] }
+  { name: "Learn 'Mount Repair+' Skill", types: ["mpickup", "traveler"] }, 1
+  { name: "Learn 'Dismount Strike' Skill", types: ["mpickup", "traveler"] }, 1
+  { name: "Learn all Traveler Skills", types: ["traveler"] } 2
 
 
   
