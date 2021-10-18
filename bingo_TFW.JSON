@@ -30,20 +30,20 @@ bingoList[0] = [
   { name: "Complete 'The Forge Of Winter'", types: ["tfwmain2",] }, 12
  
   { name: "Complete 'Waterlogged'", types: [] }, 4
-  { name: "Complete 'A Secret Shared'", types: [] },
+  { name: "Complete 'A Secret Shared'", types: [] }, 3
   
-  { name: "Complete 'The Hunters Three'", types: [] },
-  { name: "Complete 'The Claws Beneath'", types: [] },
+  { name: "Complete 'The Hunters Three'", types: [] }, 6
+  { name: "Complete 'The Claws Beneath'", types: [] }, 5
   
   { name: "Complete 'Ikrie's Challenge'", types: ["hgrounds", "ikrie"] }, 6
-  { name: "Complete 'The Survivor'", types: ["ikrie"] },
+  { name: "Complete 'The Survivor'", types: ["ikrie"] }, 6
   
-  { name: "Complete 'Geared Up: Stormslinger'", types: ["stormslinger"] },
-  { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] },
+  { name: "Complete 'Geared Up: Stormslinger'", types: ["stormslinger"] }, 4
+  { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] }, 5
   { name: "Complete 'Geared Up: Icerail'", types: ["icerail"] },
   
   { name: "Complete 'Out of the Forge'", types: [] }, 7
-  { name: "Complete 'Frontier Justice'", types: [] }, 
+  { name: "Complete 'Frontier Justice'", types: [] }, 8
  
   { name: "Purchase the Banuk Ice Hunter Master Outfit", type: ["blueice"] }, 1
   { name: "Purchase the Carja Blazon Master Outfit", type: ["blueblazon"] }, 2
