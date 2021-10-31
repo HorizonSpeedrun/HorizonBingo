@@ -44,7 +44,7 @@ bingoList[8] = [
 ];
 
 bingoList[9] = [
-  
+  { name: "Colect 4 Unique TFW Coils/Weaves", types: ["coils"] },
 ];
 
 bingoList[10] = [
@@ -72,7 +72,8 @@ bingoList[13] = [
 ];
 
 bingoList[14] = [
-
+  { name: "Colect 8 Unique TFW Coils/Weaves", types: ["coils"] },
+  { name: "Complete 'Geared Up: Icerail'", types: ["icerail"] },
 ];
 
 bingoList[15] = [
@@ -111,7 +112,8 @@ bingoList[21] = [
 ];
 
 bingoList[22] = [
-  { name: "Complete 'Firebreak'", types: ["tfwmain2"] }, 
+  { name: "Complete 'Firebreak'", types: ["tfwmain2"] },
+  { name: "Colect 11 (All) Unique TFW Coils/Weaves", types: ["coils"] },
 ];
 
 bingoList[23] = [
