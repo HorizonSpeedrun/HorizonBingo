@@ -9,7 +9,17 @@ bingoList[1] = [
 ];
 
 bingoList[2] = [
-
+  { name: "Get The Reinforced Outfit Weave", types: ["tfwmods"] },
+  { name: "Get The Drummer's Weapon Coil", types: ["tfwmods"] },
+  { name: "Get The Warrior's Outfit Weave", types: ["tfwmods"] },
+  { name: "Get The Insulated Outfit Weave", types: ["tfwmods"] },
+  { name: "Get The Hidebound Weapon Coil", types: ["tfwmods"] },
+  { name: "Get The Painted Weapon Coil", types: ["tfwmods"] },
+  { name: "Get The Survivor's Outfit Weave", types: ["tfwmods"] },
+  { name: "Get The Untested Weapon Coil", types: ["tfwmods"] },
+  { name: "Get The Veteran's Weapon Coil", types: ["tfwmods"] },
+  { name: "Get The Heat Sink Outfit Weave", types: ["tfwmods"] },
+  { name: "Get The Pristine Weapon Coil", types: ["tfwmods"] },
 ];
 
 bingoList[3] = [
