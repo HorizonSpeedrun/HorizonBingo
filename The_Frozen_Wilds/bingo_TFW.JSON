@@ -14,7 +14,6 @@ bingoList[3] = [
 ];
 
 bingoList[4] = [
-  { name: "Salt Pigment Set", types: ["pigment2"] },
   { name: "Purchase the Carja Blazon Master Outfit", type: ["blueblazon"] },
   { name: "Purchase the Bunuk Striker Bow", type: ["bluestriker"] },
 ];
@@ -36,12 +35,12 @@ bingoList[7] = [
 ];
 
 bingoList[8] = [
-
+  { name: "Stone Yield Bandit Camp", types: ["forgefire"] },
 ];
 
 bingoList[9] = [
   { name: "Colect 4 Unique TFW Coils/Weaves", types: ["coils"] },
-  { name: "Stone Yield Bandit Camp", types: ["forgefire"] },
+  { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] },
 ];
 
 bingoList[10] = [
@@ -51,7 +50,6 @@ bingoList[10] = [
 
 bingoList[11] = [
   { name: "Salt Pigment Set", types: ["pigment2"] },
-  { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] },
   { name: "Learn all Traveler Skills", types: ["traveler"] },
 ];
 
