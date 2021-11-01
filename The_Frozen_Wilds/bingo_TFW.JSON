@@ -44,7 +44,7 @@ bingoList[9] = [
 ];
 
 bingoList[10] = [
-  { name: "3 Animal Figurines", types: ["afigurines"] 
+  { name: "3 Animal Figurines", types: ["afigurines"] },
   { name: "30 Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
 ];
 
