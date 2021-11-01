@@ -1,36 +1,36 @@
 var bingoList = [];
 bingoList[1] = [
-  { name: "10 Bluegleam", types: ["bluegleam"] }, 1,
+  { name: "10 Bluegleam", types: ["bluegleam"] },
+  { name: "Purchase the Banuk Champion Bow", type: ["bluechampion"] },
 ];
 
 bingoList[2] = [
-
+  { name: "Purchase the Banuk Powershot Bow", type: ["bluepowershot"] },
+  { name: "Purchase the Banuk Ice Hunter Master Outfit", type: ["blueice"] },
 ];
 
 bingoList[3] = [
-  { name: "20 Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] }, 3
+  { name: "20 Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
 ];
 
 bingoList[4] = [
   { name: "Salt Pigment Set", types: ["pigment2"] },
+  { name: "Purchase the Carja Blazon Master Outfit", type: ["blueblazon"] },
+  { name: "Purchase the Bunuk Striker Bow", type: ["bluestriker"] },
 ];
 
 bingoList[5] = [
-
+  { name: "Purchase the Nora Silent Hunter Master Outfit", type: ["bluesilent"] },
 ];
 
 bingoList[6] = [
   { name: "3 Control Towers", types: ["ctowers"] },
   { name: "30 Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
-  { name: "Purchase the Banuk Powershot Bow", type: ["bluepowershot"] },
-  { name: "Purchase the Banuk Ice Hunter Master Outfit", type: ["blueice"] },
-  { name: "Purchase the Banuk Champion Bow", type: ["bluechampion"] },
+  
 ];
 
 bingoList[7] = [
-  { name: "Purchase the Nora Silent Hunter Master Outfit", type: ["bluesilent"] },
-  { name: "Purchase the Carja Blazon Master Outfit", type: ["blueblazon"] },
-  { name: "Purchase the Bunuk Striker Bow", type: ["bluestriker"] },
+  
   { name: "Learn 'Dismount Strike' Skill", types: ["mpickup", "traveler"] },
   { name: "Learn 'Mount Repair+' Skill", types: ["mpickup", "traveler"] },
 ];
@@ -52,23 +52,22 @@ bingoList[10] = [
 bingoList[11] = [
   { name: "Salt Pigment Set", types: ["pigment2"] },
   { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] },
+  { name: "Learn all Traveler Skills", types: ["traveler"] },
 ];
 
 bingoList[12] = [
   { name: "40 Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   { name: "Tallneck Frostfigures", types: [""] },
   { name: "Oxide Pigment Set", types: ["pigment1"] },
-  { name: "Learn all Traveler Skills", types: ["traveler"] },
 ];
 
 bingoList[13] = [
   { name: "Complete 'Waterlogged'", types: [] }, 
   { name: "Crystal Pigment Set", types: ["pigment3"] },
-  { name: "Complete 'The Shaman's Path'", types: ["tfwmain1", "stormslinger"] }, 13
+  { name: "Complete 'The Shaman's Path'", types: ["tfwmain1", "stormslinger"] },
 ];
 
 bingoList[14] = [
-  { name: "Colect 8 Unique TFW Coils/Weaves", types: ["coils"] },
   { name: "Complete 'Geared Up: Icerail'", types: ["icerail"] },
   { name: "6 Control Towers", types: ["ctowers"] },
   { name: "Complete 'A Secret Shared'", types: [] },
@@ -81,6 +80,7 @@ bingoList[15] = [
 
 bingoList[16] = [
   { name: "All Animal Figurines", types: ["afigurines"] },
+  { name: "Colect 8 Unique TFW Coils/Weaves", types: ["coils"] },
 ];
 
 bingoList[17] = [
@@ -114,7 +114,6 @@ bingoList[21] = [
 bingoList[22] = [
   { name: "Complete 'Firebreak'", types: ["tfwmain2"] },
   { name: "Colect 11 (All) Unique TFW Coils/Weaves", types: ["coils"] },
-  { name: "Complete 'Frontier Justice'", types: [] }, 
 ];
 
 bingoList[23] = [
@@ -125,7 +124,7 @@ bingoList[23] = [
 
 
 bingoList[24] = [
-
+  { name: "Complete 'Frontier Justice'", types: [] },
 ];
           
 bingoList[25] = [
