@@ -10,12 +10,12 @@ bingoList[2] = [
 ];
 
 bingoList[3] = [
-  { name: "20 Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "20 Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
 ];
 
 bingoList[4] = [
   { name: "Purchase the Carja Blazon Master Outfit", type: ["blueblazon"] },
-  { name: "Purchase the Bunuk Striker Bow", type: ["bluestriker"] },
+  { name: "Purchase the Banuk Striker Bow", type: ["bluestriker"] },
 ];
 
 bingoList[5] = [
@@ -24,7 +24,7 @@ bingoList[5] = [
 
 bingoList[6] = [
   { name: "3 Control Towers", types: ["ctowers"] },
-  { name: "30 Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "30 Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   
 ];
 
@@ -39,7 +39,7 @@ bingoList[8] = [
 ];
 
 bingoList[9] = [
-  { name: "Colect 4 Unique TFW Coils/Weaves", types: ["coils"] },
+  { name: "Collect 4 Unique TFW Coils/Weaves", types: ["coils"] },
   { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] },
 ];
 
@@ -54,7 +54,7 @@ bingoList[11] = [
 ];
 
 bingoList[12] = [
-  { name: "40 Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "40 Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   { name: "Tallneck Frostfigures", types: [""] },
   { name: "Oxide Pigment Set", types: ["pigment1"] },
 ];
@@ -72,17 +72,17 @@ bingoList[14] = [
 ];
 
 bingoList[15] = [
-  { name: "50 Bleugleam", types: ["bluegleam2", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "50 Bluegleam", types: ["bluegleam2", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   { name: "Complete 'The Survivor'", types: ["ikrie"] },
 ];
 
 bingoList[16] = [
   { name: "All Animal Figurines", types: ["afigurines"] },
-  { name: "Colect 8 Unique TFW Coils/Weaves", types: ["coils"] },
+  { name: "Collect 8 Unique TFW Coils/Weaves", types: ["coils"] },
 ];
 
 bingoList[17] = [
-  { name: "60 Bleugleam", types: ["bluegleam2", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "60 Bluegleam", types: ["bluegleam2", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   { name: "Complete 'Geared Up: Stormslinger'", types: ["stormslinger"] },
 ];
 
@@ -93,7 +93,7 @@ bingoList[18] = [
 ];
 
 bingoList[19] = [
-  { name: "70 Bleugleam", types: ["bluegleam2", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "70 Bluegleam", types: ["bluegleam2", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   { name: "All Pigments", types: ["pigment1", "pigment2", "pigment3"] }, 
 ];
 
@@ -104,18 +104,18 @@ bingoList[20] = [
 ];
 
 bingoList[21] = [
-  { name: "80 Bleugleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "80 Bluegleam", types: ["bluegleam", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   { name: "Complete 'Ikrie's Challenge'", types: ["hgrounds", "ikrie"] },
   { name: "Complete 'The Claws Beneath'", types: [] },
 ];
 
 bingoList[22] = [
   { name: "Complete 'Firebreak'", types: ["tfwmain2"] },
-  { name: "Colect 11 (All) Unique TFW Coils/Weaves", types: ["coils"] },
+  { name: "Collect 11 (All) Unique TFW Coils/Weaves", types: ["coils"] },
 ];
 
 bingoList[23] = [
-  { name: "90 Bleugleam", types: ["bluegleam2", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
+  { name: "90 Bluegleam", types: ["bluegleam2", "bluestriker", "bluepowershot", "bluechampion", "bluesilent", "blueblazon", "blueice"] },
   { name: "Complete 'The Forge Of Winter'", types: ["tfwmain2"] },
   { name: "Complete 'The Hunters Three'", types: [] },
 ];
@@ -126,6 +126,6 @@ bingoList[24] = [
 ];
           
 bingoList[25] = [
-  { name: "100 Bleugleam", types: [] },
+  { name: "100 Bluegleam", types: [] },
   { name: "Complete 'Out of the Forge'", types: [] }, 
 ];
