@@ -128,6 +128,18 @@ bingoList[0] = [
   { name: "Complete 'Sun and Shadow'", types: [] },
   { name: "Complete 'Healer's Oath'", types: [] },
   
+  { name: "Complete 5 Sidequests", types: ["sqcount"] },
+  { name: "Complete 10 Sidequests", types: ["sqcount"] },
+  { name: "Complete 15 Sidequests", types: ["sqcount"] },
+  { name: "Complete 20 Sidequests", types: ["sqcount"] },
+  { name: "Complete 25 Sidequests", types: ["sqcount"] },
+  { name: "Complete All (31) Sidequests", types: ["sqcount"] },
+  
+  { name: "Complete 5 Errands", types: ["ercount"] },
+  { name: "Complete 10 Errands", types: ["ercount"] },
+  { name: "Complete 15 Errands", types: ["ercount"] },
+  { name: "Complete All (21) Errands", types: ["ercount"] },
+  
   { name: "Learn The 'Strong Strike+' Skill", types: ["silents", "prowler"] },
   { name: "Learn The 'QUite Sprint' Skill", types: ["prowler"] },
   { name: "Learn The 'Leader Strike' Skill", types: ["silents", "prowler"] },
