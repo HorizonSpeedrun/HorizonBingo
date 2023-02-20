@@ -12,12 +12,14 @@
   { "name": "Complete 'Insult to Injury'"},
   { "name": "Complete 'Underequipped'"},
   { "name": "Complete 'A Moment's Peace'"},
+  { "name": "Complete 2 Side Quests"},
 
   { "name": "Complete 'Odd Grata'"},
   { "name": "Complete 'Sanctuary'"},
   { "name": "Complete 'Luck of the Hunt'"},
   { "name": "Complete 'Shortage of Supplies'"},
   { "name": "Complete 'In Foreign Lands'"},
+  { "name": "Complete 3 Errands"},
   
   { "name": "Bandit Camp Devil's Thirst"},
   { "name": "Bandit Camp Two-Teeth"},
@@ -38,5 +40,39 @@
   { "name": "6 Vantage Points"},
 
   { "name": "12 Grazer Dummies"},
-  { "name": "All Grazer Dummies"}
+  { "name": "All Grazer Dummies"},
+  
+  { "name": "Kill 14 Watchers"},
+  { "name": "Kill 16 Striders"},
+  { "name": "Kill 8 Scrapers"},
+  { "name": "Kill 16 Grazers"},
+  { "name": "Kill 5 Sawtooths"},
+  { "name": "Kill 5 Bellowbacks"},
+  { "name": "Kill 4 Glinthawks"},
+  { "name": "Kill 1 Thunderjaw"},
+  { "name": "Kill 3 Shell-Walkers"},
+  { "name": "Kill 8 Broadheads"},
+  { "name": "Kill 3 Snapmaws"},
+  
+  { "name": "Equip a Tripcaster"},
+  { "name": "Equip a Ropecaster"},
+  { "name": "Equip a Sling"},
+  { "name": "Equip a Blast Sling"},
+  { "name": "Equip a Rattler"},
+  { "name": "Equip a War Bow"},
+  { "name": "Equip a Sharpshot Bow"},
+  { "name": "Have 4 Carja (Blue) Weapons Equiped"},
+  
+  { "name": "Pickup a Deathbringer Gun"},
+  { "name": "Pickup a Disk Launcher"},
+  { "name": "Pickup a Firespitter"},
+  
+  { "name": "Clear a Eclipse Camp in Devil's Grief Early"},
+  { "name": "Enter Ring of Metal Early"},
+  { "name": "Enter Mother's Heart Early"},
+  { "name": "Enter the Grave Hoard Early"},
+  { "name": "Pick up 3 Power Cells"},
 ]
+
+Maybe add:
+{ "name": "Kill a Thunderjaw with a ropecaster"},
