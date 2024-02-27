@@ -44,7 +44,7 @@
   
   { "name": "Kill 14 Watchers"},
   { "name": "Kill 16 Striders"},
-  { "name": "Kill 8 Scrapers"},
+  { "name": "Kill 8 Scrappers"},
   { "name": "Kill 16 Grazers"},
   { "name": "Kill 5 Sawtooths"},
   { "name": "Kill 5 Bellowbacks"},
@@ -61,16 +61,16 @@
   { "name": "Equip a Rattler"},
   { "name": "Equip a War Bow"},
   { "name": "Equip a Sharpshot Bow"},
-  { "name": "Have 4 Carja (Blue) Weapons Equiped"},
+  { "name": "Have 4 Carja (Blue) Weapons Equipped"},
   
-  { "name": "Pickup a Deathbringer Gun"},
-  { "name": "Pickup a Disk Launcher"},
-  { "name": "Pickup a Firespitter"},
+  { "name": "Pick up a Deathbringer Gun"},
+  { "name": "Pick up a Disk Launcher"},
+  { "name": "Pick up a Firespitter"},
   
-  { "name": "Clear a Eclipse Camp in Devil's Grief Early"},
+  { "name": "Clear an Eclipse Camp in Devil's Grief Early"},
   { "name": "Enter Ring of Metal Early"},
   { "name": "Enter Mother's Heart Early"},
-  { "name": "Enter the Grave Hoard Early"},
+  { "name": "Enter the Grave-Hoard Early"},
   { "name": "Pick up 3 Power Cells"}
 ]
 
