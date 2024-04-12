@@ -1,10 +1,10 @@
 [
   { "name": "Complete 'The Point of the Spear'"},
+  { "name": "Complete 'The Proving'"},
   { "name": "Complete 'The Womb of the Mountain'"},
   { "name": "Complete 'A Seeker at the Gates'"},
  
   { "name": "Complete 'The War Chief's Trail'"},
-  { "name": "Complete 'Revenge of the Nora'"},
  
   { "name": "Complete 'In Her Mother's Footsteps'"}, 
   { "name": "Complete 'The Forgotten'"},
@@ -44,6 +44,7 @@
   { "name": "Kill 16 Striders"},
   { "name": "Kill 8 Scrappers"},
   { "name": "Kill 16 Grazers"},
+  { "name": "Complete 12 Lancehorns"},
   { "name": "Kill 5 Sawtooths"},
   { "name": "Kill 5 Bellowbacks"},
   { "name": "Kill 4 Glinthawks"},
