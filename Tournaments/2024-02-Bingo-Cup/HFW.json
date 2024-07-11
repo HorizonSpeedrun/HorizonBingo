@@ -18,7 +18,7 @@
 { "name": "Learn Machine Strike"},
 { "name": "2 Errands"},
 
-{ "name": "A Salvage Contract"},
+{ "name": "1 Salvage Contract"},
 { "name": "Salvage Contract Set"},
 { "name": "Pit Master"},
 { "name": "'Tear' Trial"},
@@ -27,8 +27,8 @@
 { "name": "'Silent Looting' Trial"},
 { "name": "'Silent Strike' Trial"},
 { "name": "'Silent Gliding' Trial"},
-{ "name": "Machine Strike in Barren Light"},
-{ "name": "Machine Strike in Plainsong"},
+{ "name": "1 Machine Strike Board in Barren Light"},
+{ "name": "1 Machine Strike Board in Plainsong"},
 { "name": "Cauldron Mu"},
 
 { "name": "2 Relic Ruins"},
@@ -58,5 +58,5 @@
 { "name": "Fully Upgrade a Valor Surge"},
 { "name": "Fill the Weapon Wheel"},
 { "name": "Equip 2 Blue Weapons"},
-{ "name": "Upgrade 3 Different Pouches"}
+{ "name": "Upgrade 3 different Pouches"}
 ]
