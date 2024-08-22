@@ -1,15 +1,12 @@
 [
 { "name": "To The Brink"},
 { "name": "The Embassy"},
-{ "name": "Death's Door"},
 
 { "name": "Deep Trouble"},
 { "name": "The Bristlebacks (Quest)"},
 { "name": "The Twilight Path"},
 { "name": "Shadow from the Past"},
 { "name": "Shadow in the West"},
-{ "name": "The Burning Blooms"},
-{ "name": "The Roots That Bind"},
 { "name": "2 Side Quests"},
 
 { "name": "A Dash of Courage"},
@@ -58,5 +55,6 @@
 { "name": "Fully Upgrade a Valor Surge"},
 { "name": "Fill the Weapon Wheel"},
 { "name": "Equip 2 Blue Weapons"},
-{ "name": "Upgrade 3 different Pouches"}
+{ "name": "Upgrade 3 different Pouches"},
+{ "name": "Igniter"}
 ]
