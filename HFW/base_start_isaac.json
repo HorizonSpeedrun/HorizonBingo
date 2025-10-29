@@ -1,14 +1,68 @@
 [[
-  { "name" : "simple kill goals - 10 will be selected"},
-  { "name" : "a second goal. as an example"}
+  { "name" : "Kill 1 Fireclaw and 1 Frostclaw"},
+  { "name" : "Kill 1 of each type of Bellowback"},
+  { "name" : "Kill 1 of each type of Bristleback"},
+  { "name" : "Kill 3 different flying machines"},
+  { "name" : "Kill 3 clamberjaws and 3 leaplashers"},
+  { "name" : "Kill 1 Stormbird and 1 Dreadwing"},
+  { "name" : "Earn full stripes at one hunting ground"},
+  { "name" : "Earn 1 stripe at each hunting ground"},
+  { "name" : "Kill 2 scorchers and 2 ravagers"},
+  { "name" : "Kill 2 rockbreakers"},
+  { "name" : "Kill 3 stalkers"},
+  { "name" : "Kill 2 shellsnappers"},
+  { "name" : "Kill 4 plowhorns"},
+  { "name" : "Kill 3 acid and 3 normal clawstriders"},
+  { "name" : "Kill 1 of every mount"},
+  { "name" : "Kill 1 enemy that applies each elemental status"},
+  { "name" : "Kill 3 of each type of glinthawk"},
+  { "name" : "Defeat 1 behemoth convoy"},
+  { "name" : "Defeat 10 machine types in HZD"},
+  { "name" : "Defeat 10 machine types only in HFW"},
+  { "name" : "Beat 3 opponents in machine strike"},
+  { "name" : "Complete Taste of Victory errand"},
+  { "name" : "Complete A Hunt to Remember errand"},
+  { "name" : "Complete 10 rebel outposts"},
+  { "name" : "Stealth kill 20 enemies"}
 ],[
-  { "name" : "collection-ish goals - 10 will be selected"},
-  { "name" : "a second goal. as an example"}
+  { "name" : "Scan all 8 burrower variants (apex or not)"},
+  { "name" : "Have 1 of each weapon type"},
+  { "name" : "Dye 1 armor with flowers"},
+  { "name" : "Have 1 armor each - Carja, Oseram, Utaru, Tenakth"},
+  { "name" : "Defeat all 4 melee pit champions"},
+  { "name" : "Complete 4 vista points"},
+  { "name" : "Collect 3 signal lenses"},
+  { "name" : "Collect 4 survey drones"},
+  { "name" : "Collect 6 ancient relics"},
+  { "name" : "Collect 6 blackboxes"},
+  { "name" : "Collect 1 salvage contract at 3 contractors"},
+  { "name" : "Complete 3 gauntlet races"},
+  { "name" : "Collect Totem of Brotherhood"},
+  { "name" : "Collect Totem of War"},
+  { "name" : "Fully upgrade 2 pouches"},
+  { "name" : "Buy 1 strike piece at each hunting ground"},
+  { "name" : "Complete 1 tallneck"},
+  { "name" : "Collect greenshine in 3 sunken caverns"},
+  { "name" : "Build the diving mask"}
 ],[
-  { "name" : "more involved goals; 4 will be selected"},
-  { "name" : "all of this is unless we change the randomizer..."}
+  { "name" : "Kill Thunderjaw after applying 4 status"},
+  { "name" : "Have 1 food each - Carja, Oseram, Utaru, Tenakth"},
+  { "name" : "Collect Aether"},
+  { "name" : "Defeat the Enduring"},
+  { "name" : "Return the lockbox to Porguf's sister"},
+  { "name" : "Kill 7 different heavy class machines"},
+  { "name" : "Upgrade each pouch type once (1 weapon)"},
+  { "name" : "Collect 1 greenshine slab"}
 ],[
-  { "name" : "the most time consuming goal, there has never..."}
-  { "name" : "1 of these. welcome to center square"}
+  { "name" : "Choose a desert commander"},
+  { "name" : "Complete Signal Spike"},
+  { "name" : "Complete The Music in Metal"},
+  { "name" : "Complete Need to Know"},
+  { "name" : "Complete Blood for Blood"},
+  { "name" : "Defeat Asera"},
+  { "name" : "Complete 1 arena challenge"},
+  { "name" : "Defeat 1 heavy class machine, spear only"},
+  { "name" : "Complete the Deluge"},
+  { "name" : "Complete 3 cauldrons"}
 ]]
   
