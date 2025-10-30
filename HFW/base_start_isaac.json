@@ -23,7 +23,9 @@
   { "name" : "Complete Taste of Victory errand"},
   { "name" : "Complete A Hunt to Remember errand"},
   { "name" : "Complete 10 rebel outposts"},
-  { "name" : "Stealth kill 20 enemies"}
+  { "name" : "Kill 20 human enemies"},
+  { "name" : "Complete Burning Blooms side quest"},
+  { "name" : "Complete Broken Locks side quest"}
 ],[
   { "name" : "Scan all 8 burrower variants (apex or not)"},
   { "name" : "Have 1 of each weapon type"},
@@ -49,7 +51,6 @@
   { "name" : "Have 1 food each - Carja, Oseram, Utaru, Tenakth"},
   { "name" : "Collect Aether"},
   { "name" : "Defeat the Enduring"},
-  { "name" : "Return the lockbox to Porguf's sister"},
   { "name" : "Kill 7 different heavy class machines"},
   { "name" : "Upgrade each pouch type once (1 weapon)"},
   { "name" : "Collect 1 greenshine slab"}
@@ -57,7 +58,6 @@
   { "name" : "Choose a desert commander"},
   { "name" : "Complete Signal Spike"},
   { "name" : "Complete The Music in Metal"},
-  { "name" : "Complete Need to Know"},
   { "name" : "Complete Blood for Blood"},
   { "name" : "Defeat Asera"},
   { "name" : "Complete 1 arena challenge"},
