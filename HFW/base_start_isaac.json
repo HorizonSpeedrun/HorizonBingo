@@ -20,14 +20,14 @@
   { "types" : ["CSgjB"] , "name" : "Defeat 10 machine types in HZD"},
   { "types" : ["SFNWD"] , "name" : "Defeat 10 machine types only in HFW"},
   { "types" : ["RmuWE"] , "name" : "Beat 3 opponents in machine strike"},
-  { "types" : ["chKek"] , "name" : "Complete Taste of Victory errand (Salt Bite food)"},
-  { "types" : ["cDHhT"] , "name" : "Complete A Hunt to Remember errand (Cliffwatch)"},
+  { "types" : ["chKek"] , "name" : "Complete Taste of Victory"},
+  { "types" : ["cDHhT"] , "name" : "Complete A Hunt to Remember"},
   { "types" : ["aWvZj"] , "name" : "Complete 5 rebel outposts"},
   { "types" : ["fJLRE"] , "name" : "Kill 20 human enemies"},
-  { "types" : ["iwprJ"] , "name" : "Complete Burning Blooms side quest (Talanah)"},
-  { "types" : ["JXBDy"] , "name" : "Complete A Tribe Apart side quest (near Stone's Echo)"},
-  { "types" : ["JzBDy"] , "name" : "Complete Supply Drop errand (encrypted SoP Focus)"},
-  { "types" : ["eouCg"] , "name" : "Complete Breaking Even side quest (clear tunnel)"}
+  { "types" : ["iwprJ"] , "name" : "Complete Burning Blooms"},
+  { "types" : ["JXBDy"] , "name" : "Complete A Tribe Apart"},
+  { "types" : ["JzBDy"] , "name" : "Complete Supply Drop"},
+  { "types" : ["eouCg"] , "name" : "Complete Breaking Even"}
 ],[
   { "types" : ["fHreJ"] , "name" : "Have 1 of each weapon type (9 total)"},
   { "types" : ["zRCjV"] , "name" : "Dye 1 armor with flowers"},
@@ -40,8 +40,8 @@
   { "types" : ["CYItL"] , "name" : "Collect 4 blackboxes"},
   { "types" : ["SbYqV"] , "name" : "Collect 1 salvage contract at 3 contractors"},
   { "types" : ["hnbiv"] , "name" : "Complete 3 Gauntlet Races"},
-  { "types" : ["OyBSx"] , "name" : "Collect Totem of Brotherhood (by Latopolis)"},
-  { "types" : ["hzwCd"] , "name" : "Collect Totem of War (by Asera)"},
+  { "types" : ["OyBSx"] , "name" : "Collect Totem of Brotherhood"},
+  { "types" : ["hzwCd"] , "name" : "Collect Totem of War"},
   { "types" : ["FJGRO"] , "name" : "Fully upgrade 1 pouch"},
   { "types" : ["yGrTU"] , "name" : "Buy 1 strike piece at each (4) hunting ground"},
   { "types" : ["ODJqI"] , "name" : "Complete 1 Tallneck"},
@@ -51,20 +51,20 @@
   { "types" : ["YJpuY"] , "name" : "Scan all 8 burrower variants (Apex or not)"},
   { "types" : ["IKQEL"] , "name" : "Kill Thunderjaw after applying 4 status"},
   { "types" : ["wcMdj"] , "name" : "Have 1 food each - Carja, Oseram, Utaru, Tenakth"},
-  { "types" : ["MrSkE"] , "name" : "Collect Aether (not returning to GAIA)"},
+  { "types" : ["MrSkE"] , "name" : "Collect Aether"},
   { "types" : ["XRlQx"] , "name" : "Defeat the Enduring"},
   { "types" : ["UInLQ"] , "name" : "Kill 5 different heavy class machines"},
   { "types" : ["agRcd"] , "name" : "Upgrade each pouch type once (Res, Traps, Potions, Food, 1 weapon)"},
   { "types" : ["KIvRK"] , "name" : "Complete both Shadow quests"},
   { "types" : ["MqxUk"] , "name" : "Collect 1 greenshine slab"}
 ],[
-  { "types" : ["DnLVl"] , "name" : "Choose a desert commander (starts at Arrowhand)"},
+  { "types" : ["DnLVl"] , "name" : "Choose a desert commander"},
   { "types" : ["IPGtn"] , "name" : "Complete Signal Spike"},
-  { "types" : ["Jqxnj"] , "name" : "Complete Blood for Blood (Dekka - post Kulrut)"},
+  { "types" : ["Jqxnj"] , "name" : "Complete Blood for Blood"},
   { "types" : ["qbRuz"] , "name" : "Complete 1 arena challenge"},
   { "types" : ["DMepu"] , "name" : "Collect 1 of each Greenshine variant"},
   { "types" : ["dZMVx"] , "name" : "Defeat 2 different heavy class machine, spear only"},
-  { "types" : ["tITYc"] , "name" : "Complete the Deluge (near Enduring)"},
-  { "types" : ["iabmy"] , "name" : "Complete A Soldier's March (Bulwark climbing quest)"}
+  { "types" : ["tITYc"] , "name" : "Complete the Deluge"},
+  { "types" : ["iabmy"] , "name" : "Complete A Soldier's March"}
 ]]
   
