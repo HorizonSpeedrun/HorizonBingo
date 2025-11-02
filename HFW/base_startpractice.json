@@ -26,7 +26,7 @@
   { "types" : ["fJLRE"] , "name" : "Kill 20 human enemies"},
   { "types" : ["iwprJ"] , "name" : "Complete Burning Blooms side quest (Talanah)"},
   { "types" : ["JXBDy"] , "name" : "Complete A Tribe Apart side quest (near Stone's Echo)"},
-  { "types" : ["JzBDy"] , "name" : "Complete Supply Drop errand (encrypted SoP Focus)"},
+  { "types" : ["JzBDy"] , "name" : "Complete Supply Drop errand (rollerback N of the grove)"},
   { "types" : ["eouCg"] , "name" : "Complete Breaking Even side quest (clear tunnel)"}
 ],[
   { "types" : ["fHreJ"] , "name" : "Have 1 of each weapon type (9 total)"},
