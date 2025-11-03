@@ -5,7 +5,7 @@
   { "types" : ["RnvQl"] , "name" : "Kill 3 different flying machines"},
   { "types" : ["FBexY"] , "name" : "Kill 3 Clamberjaws and 3 Leaplashers"},
   { "types" : ["LaCiZ"] , "name" : "Kill 1 Stormbird and 1 Dreadwing"},
-  { "types" : ["hpjLg"] , "name" : "Earn full stripes at one hunting ground"},
+  { "types" : ["hpjLg"] , "name" : "Earn full stripes at 1 hunting ground"},
   { "types" : ["rLwgA"] , "name" : "Earn 1 stripe at each (4) hunting ground"},
   { "types" : ["DFTen"] , "name" : "Kill 2 Scorchers and 2 Ravagers"},
   { "types" : ["aYfFo"] , "name" : "Kill 1 Rockbreaker"},
@@ -14,7 +14,6 @@
   { "types" : ["CWhcZ"] , "name" : "Kill 3 Plowhorns"},
   { "types" : ["RuhNG"] , "name" : "Kill 3 acid and 3 normal Clawstriders"},
   { "types" : ["fxKsd"] , "name" : "Kill 1 of every mount"},
-  { "types" : ["lTQYO"] , "name" : "Kill 1 enemy that uses each elemental status"},
   { "types" : ["oTRJg"] , "name" : "Kill 2 frost and 2 fire Glinthawks"},
   { "types" : ["BUhRg"] , "name" : "Defeat 1 behemoth convoy"},
   { "types" : ["CSgjB"] , "name" : "Defeat 10 machine types in HZD"},
@@ -29,7 +28,7 @@
   { "types" : ["JzBDy"] , "name" : "Complete Supply Drop errand (rollerback N of the grove)"},
   { "types" : ["eouCg"] , "name" : "Complete Breaking Even side quest (clear tunnel)"}
 ],[
-  { "types" : ["fHreJ"] , "name" : "Have 1 of each weapon type (9 total)"},
+  { "types" : ["fHreJ"] , "name" : "Have 1 of each weapon type (10 total)"},
   { "types" : ["zRCjV"] , "name" : "Dye 1 armor with flowers"},
   { "types" : ["OBMou"] , "name" : "Have 1 armor each - Carja, Oseram, Utaru, Tenakth"},
   { "types" : ["rOwih"] , "name" : "Defeat all 4 melee pit champions"},
