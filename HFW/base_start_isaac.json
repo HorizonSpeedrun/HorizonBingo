@@ -38,7 +38,7 @@
   { "types" : ["XEPHt"] , "name" : "Collect 4 ancient relics"},
   { "types" : ["CYItL"] , "name" : "Collect 4 blackboxes"},
   { "types" : ["SbYqV"] , "name" : "Collect 1 salvage contract at 3 contractors"},
-  { "types" : ["hnbiv"] , "name" : "Complete 3 Gauntlet Races"},
+  { "types" : ["hnbiv"] , "name" : "Complete 2 Gauntlet Races"},
   { "types" : ["OyBSx"] , "name" : "Collect Totem of Brotherhood"},
   { "types" : ["hzwCd"] , "name" : "Collect Totem of War"},
   { "types" : ["FJGRO"] , "name" : "Fully upgrade 1 pouch"},
@@ -53,17 +53,15 @@
   { "types" : ["MrSkE"] , "name" : "Collect Aether"},
   { "types" : ["XRlQx"] , "name" : "Defeat the Enduring"},
   { "types" : ["UInLQ"] , "name" : "Kill 5 different heavy class machines"},
-  { "types" : ["agRcd"] , "name" : "Upgrade each pouch type once (Res, Traps, Potions, Food, 1 weapon)"},
+  { "types" : ["agRcd"] , "name" : "Upgrade 5 pouches once: Res, Traps, Potions, Food, 1 ammo"},
   { "types" : ["KIvRK"] , "name" : "Complete both Shadow quests"},
+  { "types" : ["dZMVx"] , "name" : "Defeat 1 different heavy class machine, spear only"},
+  { "types" : ["tITYc"] , "name" : "Complete the Deluge"},
   { "types" : ["MqxUk"] , "name" : "Collect 1 greenshine slab"}
 ],[
   { "types" : ["DnLVl"] , "name" : "Choose a desert commander"},
   { "types" : ["IPGtn"] , "name" : "Complete Signal Spike"},
   { "types" : ["Jqxnj"] , "name" : "Complete Blood for Blood"},
-  { "types" : ["qbRuz"] , "name" : "Complete 1 arena challenge"},
-  { "types" : ["DMepu"] , "name" : "Collect 1 of each Greenshine variant"},
-  { "types" : ["dZMVx"] , "name" : "Defeat 2 different heavy class machine, spear only"},
-  { "types" : ["tITYc"] , "name" : "Complete the Deluge"},
-  { "types" : ["iabmy"] , "name" : "Complete A Soldier's March"}
+  { "types" : ["qbRuz"] , "name" : "Complete 1 Arena challenge set"}
 ]]
   

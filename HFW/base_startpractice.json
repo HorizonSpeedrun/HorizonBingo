@@ -13,7 +13,7 @@
   { "types" : ["LjWSc"] , "name" : "Kill 1 Shellsnapper"},
   { "types" : ["CWhcZ"] , "name" : "Kill 3 Plowhorns"},
   { "types" : ["RuhNG"] , "name" : "Kill 3 acid and 3 normal Clawstriders"},
-  { "types" : ["fxKsd"] , "name" : "Kill 1 of every mount"},
+  { "types" : ["fxKsd"] , "name" : "Kill 1 of every mount (4)"},
   { "types" : ["oTRJg"] , "name" : "Kill 2 frost and 2 fire Glinthawks"},
   { "types" : ["BUhRg"] , "name" : "Defeat 1 behemoth convoy"},
   { "types" : ["CSgjB"] , "name" : "Defeat 10 machine types in HZD"},
@@ -38,7 +38,7 @@
   { "types" : ["XEPHt"] , "name" : "Collect 4 ancient relics"},
   { "types" : ["CYItL"] , "name" : "Collect 4 blackboxes"},
   { "types" : ["SbYqV"] , "name" : "Collect 1 salvage contract at 3 contractors"},
-  { "types" : ["hnbiv"] , "name" : "Complete 3 Gauntlet Races"},
+  { "types" : ["hnbiv"] , "name" : "Complete 2 Gauntlet Races"},
   { "types" : ["OyBSx"] , "name" : "Collect Totem of Brotherhood (by Latopolis)"},
   { "types" : ["hzwCd"] , "name" : "Collect Totem of War (by Asera)"},
   { "types" : ["FJGRO"] , "name" : "Fully upgrade 1 pouch"},
@@ -53,17 +53,15 @@
   { "types" : ["MrSkE"] , "name" : "Collect Aether (not returning to GAIA)"},
   { "types" : ["XRlQx"] , "name" : "Defeat the Enduring"},
   { "types" : ["UInLQ"] , "name" : "Kill 5 different heavy class machines"},
-  { "types" : ["agRcd"] , "name" : "Upgrade each pouch type once (Res, Traps, Potions, Food, 1 weapon)"},
+  { "types" : ["agRcd"] , "name" : "Upgrade 5 pouches once: Res, Traps, Potions, Food, 1 ammo"},
   { "types" : ["KIvRK"] , "name" : "Complete both Shadow quests"},
+  { "types" : ["dZMVx"] , "name" : "Defeat 1 different heavy class machine, spear only"},
+  { "types" : ["tITYc"] , "name" : "Complete the Deluge (near Enduring)"},
   { "types" : ["MqxUk"] , "name" : "Collect 1 greenshine slab"}
 ],[
   { "types" : ["DnLVl"] , "name" : "Choose a desert commander (starts at Arrowhand)"},
   { "types" : ["IPGtn"] , "name" : "Complete Signal Spike"},
   { "types" : ["Jqxnj"] , "name" : "Complete Blood for Blood (Dekka - post Kulrut)"},
-  { "types" : ["qbRuz"] , "name" : "Complete 1 arena challenge"},
-  { "types" : ["DMepu"] , "name" : "Collect 1 of each Greenshine variant"},
-  { "types" : ["dZMVx"] , "name" : "Defeat 2 different heavy class machine, spear only"},
-  { "types" : ["tITYc"] , "name" : "Complete the Deluge (near Enduring)"},
-  { "types" : ["iabmy"] , "name" : "Complete A Soldier's March (Bulwark climbing quest)"}
+  { "types" : ["qbRuz"] , "name" : "Complete 1 Arena challenge set"}
 ]]
   
