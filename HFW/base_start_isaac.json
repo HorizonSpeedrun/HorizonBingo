@@ -55,7 +55,7 @@
   { "types" : ["UInLQ"] , "name" : "Kill 5 different heavy class machines"},
   { "types" : ["agRcd"] , "name" : "Upgrade 5 pouches once: Res, Traps, Potions, Food, 1 ammo"},
   { "types" : ["KIvRK"] , "name" : "Complete both Shadow quests"},
-  { "types" : ["dZMVx"] , "name" : "Defeat 1 different heavy class machine, spear only"},
+  { "types" : ["dZMVx"] , "name" : "Defeat 1 heavy class machine, spear only"},
   { "types" : ["tITYc"] , "name" : "Complete the Deluge"},
   { "types" : ["MqxUk"] , "name" : "Collect 1 greenshine slab"}
 ],[
